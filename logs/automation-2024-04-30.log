@@ -1,0 +1,53 @@
+20:08:27.384 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3e4f80cb: 292 ms
+20:08:27.399 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@191a709b: 1 ms
+20:08:27.416 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@616b241a: 17 ms
+20:08:27.433 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@592238c5: 17 ms
+20:08:27.451 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1cc9cfb2: 18 ms
+20:08:27.452 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@cfbc8e8: 0 ms
+20:40:17.677 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\Desktop\Javacorerevised\OpencardApplication\testng.xml"
+20:40:19.676 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\Desktop\Javacorerevised\OpencardApplication\testng.xml
+
+20:40:56.110 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting of the TC_001_Account Registration test ******* 
+20:40:56.111 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs.....
+20:40:57.395 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on My Account link
+20:40:59.615 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on Registration link
+20:40:59.615 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering the customer info -: 
+20:41:06.231 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+20:41:06.301 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected message..
+20:41:06.302 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test Passed
+20:41:06.307 [main] INFO  testCases.TC_001_AccountRegistrationTest - Ending of the TC_001_Account Registration test ******* 
+20:42:41.441 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\Desktop\Javacorerevised\OpencardApplication\testng.xml"
+20:42:55.937 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\Desktop\Javacorerevised\OpencardApplication\testng.xml
+
+20:44:43.134 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting of the TC_001_Account Registration test ******* 
+20:44:43.136 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs.....
+20:44:48.478 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on My Account link
+20:44:55.870 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on Registration link
+20:44:55.870 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering the customer info -: 
+20:45:12.891 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+20:45:13.469 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected message..
+20:45:13.469 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test Passed
+20:45:13.493 [main] INFO  testCases.TC_001_AccountRegistrationTest - Ending of the TC_001_Account Registration test ******* 
+20:48:43.504 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\Desktop\Javacorerevised\OpencardApplication\testng.xml"
+20:48:46.200 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\Desktop\Javacorerevised\OpencardApplication\testng.xml
+
+20:48:46.694 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting of the TC_001_Account Registration test ******* 
+20:48:46.695 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs.....
+21:25:47.265 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ASUS\Desktop\Javacorerevised\OpencardApplication\crossbrowsertest.xml"
+21:25:49.515 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ASUS\Desktop\Javacorerevised\OpencardApplication\crossbrowsertest.xml
+
+21:26:35.886 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting of the TC_001_Account Registration test ******* 
+21:26:35.887 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs.....
+21:26:37.508 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on My Account link
+21:26:42.609 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click on Registration link
+21:26:42.609 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering the customer info -: 
+21:26:50.193 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+21:26:50.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected message..
+21:26:50.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test Passed
+21:26:50.356 [main] INFO  testCases.TC_001_AccountRegistrationTest - Ending of the TC_001_Account Registration test ******* 
+21:27:33.020 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting of the TC_001_Account Registration test ******* 
+21:27:33.021 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs.....
